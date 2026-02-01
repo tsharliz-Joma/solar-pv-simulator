@@ -40,7 +40,7 @@ with significant drop off by 6:00pm or sunset
 ### The timestep loop
 
 For each timestep the simulator will advance the time, 
-ibased on the models assumption it will then determine the UV/sunlight level for that time,
+based on the models assumption it will then determine the UV/sunlight level for that time,
 measure and record the UV/Sunlight output,
 it will then continue onto the next time stamp
 
