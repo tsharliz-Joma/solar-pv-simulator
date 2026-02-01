@@ -56,6 +56,7 @@ Beginning
 
 ## Folder structure/organisation
 
+- All folders will live relative the main directory, eg. notes/**.txt
 - Notes live in the /notes folder at the base directory
 
 
